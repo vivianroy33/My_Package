@@ -1,0 +1,18 @@
+{
+	"added_words":
+	[
+		"Renesas"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"preview_on_click": false,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Adaptive.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
